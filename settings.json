@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": XDCLUB.aternos.me:35870,
+    "ip": XDCLUB.aternos.me:35870
     "port": 35870,
     "version": "1.21.1"
   },
